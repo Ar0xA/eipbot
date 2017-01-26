@@ -5,7 +5,7 @@ from urllib import urlencode
 from urllib2 import urlopen, Request
 
 NICKNAME='eip[bot]'
-CHANNEL='#vulnhub'
+CHANNEL='#inforekt'
 network = 'adams.freenode.net'
 port = 6667
 
